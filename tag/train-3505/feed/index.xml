@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Train 3505 &#8211; Accidental Films and TV</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Documentary Film and TV Productions</description>
+	<lastBuildDate>
+	Tue, 31 Oct 2017 15:56:54 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.6</generator>
+	<item>
+		<title>Train 3505</title>
+		<link>./../../../train-3505/index.html</link>
+				<comments>./../../../train-3505/index.html#respond</comments>
+				<pubDate>Sat, 02 Jul 2011 11:33:18 +0000</pubDate>
+		<dc:creator><![CDATA[Accidental Films]]></dc:creator>
+				<category><![CDATA[Film]]></category>
+		<category><![CDATA[Inspires me]]></category>
+		<category><![CDATA[Justin Joshua Davy]]></category>
+		<category><![CDATA[My Town Short Film Competition]]></category>
+		<category><![CDATA[Train 3505]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=844</guid>
+				<description><![CDATA[Train 3505 was a submission to the Documentary Filmmakers&#8217; Association&#8217;s My Town Short Film Competition in 2011. The film was shot and edited by Justin ...]]></description>
+								<content:encoded><![CDATA[<p><iframe width="500" height="281" src="http://www.youtube.com/embed/woyOo4ZfHPg?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p><em>Train 3505</em> was a submission to the Documentary Filmmakers&#8217; Association&#8217;s <em>My Town Short Film Competition</em> in 2011. The film was shot and edited by <a title="Justin Joshua Davy's blog" href="http://justindavy.wordpress.com/">Justin Joshua Davy</a>, who worked with me at Accidental Films and TV as an intern from October 2010 &#8211; April 2011.</p>
+<p>I like the way Justin lets us feel the train and its occupants before he takes us inside. As we travel through the early morning landscape, we hear the sounds of the train on the rails along with the sounds coming from inside the train. Maybe it&#8217;s because I find travelling on a train quite lulling, or maybe it&#8217;s the moody early morning shots, or maybe it&#8217;s the repetitive sounds &#8211; whatever the cause, in the first 30 seconds of the film I am already transported into the film and a part of it.</p>
+<p>It&#8217;s a powerful story of the daily commute of 700 000 South Africans. I hope you enjoy it!</p>
+]]></content:encoded>
+							<wfw:commentRss>./../../../train-3505/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

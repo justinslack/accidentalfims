@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>text animation &#8211; Accidental Films and TV</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Documentary Film and TV Productions</description>
+	<lastBuildDate>
+	Tue, 31 Oct 2017 15:56:54 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.6</generator>
+	<item>
+		<title>Text Animation</title>
+		<link>./../../../textanimation/index.html</link>
+				<comments>./../../../textanimation/index.html#comments</comments>
+				<pubDate>Mon, 12 Jul 2010 18:56:03 +0000</pubDate>
+		<dc:creator><![CDATA[Accidental Films]]></dc:creator>
+				<category><![CDATA[Film]]></category>
+		<category><![CDATA[After Effects]]></category>
+		<category><![CDATA[experimenting]]></category>
+		<category><![CDATA[text animation]]></category>
+
+		<guid isPermaLink="false">http://attentiontodetail.wordpress.com/?p=531</guid>
+				<description><![CDATA[Experimenting with After Effects this weekend, I began with trying to animate the logo I designed for myself. Not entirely happy with the result and ...]]></description>
+								<content:encoded><![CDATA[<p>Experimenting with After Effects this weekend, I began with trying to animate the logo I designed for myself. Not entirely happy with the result and rather than chip away at it tirelessly without really knowing what I wanted to do, I decided to work on something more distant.</p>
+<p>Unbeknown to him, I chose <a title="Grondwerk's twitter account" href="http://twitter.com/Grondwerk" target="_blank">Grondwerk</a>&#8216;s domain name, thinking that if I wasn&#8217;t happy with it, he would never have to see it, and if I was happy with it, he didn&#8217;t have to be. I worked away on Saturday afternoon with the help of an <a title="After Effects tutorial episodes" href="http://tv.adobe.com/show/adobe-beginner-classes-with-dennis-radeke" target="_blank">After Effects video tutorial</a> that makes it all so clear.</p>
+<p>I designed a simple logo with a classic look and found myself hoping that Grondwerk would like it. When I realised that I wanted him to like it, I started to worry that if he didn&#8217;t like it, I would be gutted and not continue my experiments. Then I remembered that I am not easily discouraged when I am having fun and believe in what I am doing, and what I was having fun doing and believing in was experimenting.</p>
+<p>Turn on your volume to experience the result:<br />
+<iframe src="http://player.vimeo.com/video/13273555" width="500" height="100" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
+<p>The music sampled is &#8220;It&#8217;s good to be here&#8221; from the Digable Planets&#8217; 1993  debut album &#8220;Reachin&#8217; (A new Refutation of Time and Space)&#8221;.</p>
+]]></content:encoded>
+							<wfw:commentRss>./../../../textanimation/feed/index.html</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+	</channel>
+</rss>

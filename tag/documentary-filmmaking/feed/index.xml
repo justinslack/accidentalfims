@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>documentary filmmaking &#8211; Accidental Films and TV</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Documentary Film and TV Productions</description>
+	<lastBuildDate>
+	Tue, 31 Oct 2017 15:56:54 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.6</generator>
+	<item>
+		<title>On Documenting</title>
+		<link>./../../../ondocumenting/index.html</link>
+				<comments>./../../../ondocumenting/index.html#respond</comments>
+				<pubDate>Sun, 21 Nov 2010 10:15:50 +0000</pubDate>
+		<dc:creator><![CDATA[Accidental Films]]></dc:creator>
+				<category><![CDATA[Words on Pictures]]></category>
+		<category><![CDATA[documentary filmmaking]]></category>
+
+		<guid isPermaLink="false">http://attentiontodetail.wordpress.com/?p=732</guid>
+				<description><![CDATA[Erik Barnouw in his Documentary: A History of the Non-Fiction Film writes this about Polish cinematographer Boleslaw Matuszewski on pages 27 to 29: He recognized ...]]></description>
+								<content:encoded><![CDATA[<p>Erik Barnouw in his <em>Documentary: A History of the Non-Fiction Film</em> writes this about Polish cinematographer Boleslaw Matuszewski on pages 27 to 29:</p>
+<blockquote><p>He recognized that history does not always happen where one waits for it, and that effects are easier to find and photograph than causes.</p></blockquote>
+<p>This makes me wonder whether brilliant documentary filmmaking captures the causes and not only the effects. It allows viewers to understand why something happened or why something is the way it is.</p>
+]]></content:encoded>
+							<wfw:commentRss>./../../../ondocumenting/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cinema &#8211; Accidental Films and TV</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Documentary Film and TV Productions</description>
+	<lastBuildDate>
+	Tue, 31 Oct 2017 15:56:54 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.6</generator>
+	<item>
+		<title>The Drug of the Nation</title>
+		<link>./../../../thedrugofthenation/index.html</link>
+				<comments>./../../../thedrugofthenation/index.html#respond</comments>
+				<pubDate>Thu, 24 Dec 2009 11:38:39 +0000</pubDate>
+		<dc:creator><![CDATA[Accidental Films]]></dc:creator>
+				<category><![CDATA[Quotes]]></category>
+		<category><![CDATA[Television]]></category>
+		<category><![CDATA[Words on Pictures]]></category>
+		<category><![CDATA[cinema]]></category>
+		<category><![CDATA[Penelope Houston]]></category>
+		<category><![CDATA[tv]]></category>
+
+		<guid isPermaLink="false">http://attentiontodetail.wordpress.com/?p=457</guid>
+				<description><![CDATA[In 1962, 1963 when she wrote &#8216;The Contemporary Cinema&#8217; Penelope Houston was working at the British Film Institute. In &#8216;The Contemporary Cinema&#8217; she provides an ...]]></description>
+								<content:encoded><![CDATA[<p>In 1962, 1963 when she wrote &#8216;The Contemporary Cinema&#8217; Penelope Houston was working at the British Film Institute. In &#8216;The Contemporary Cinema&#8217; she provides an analysis of the context of the development of cinema from the early days of cinema to the 1960s with the introduction of television when she was writing.</p>
+<p>In her introduction to the book there is a paragraph I find interesting in terms of how it relates to tv viewing today:</p>
+<p><a href="http://attentiontodetail.files.wordpress.com/2009/12/testpatterntext1.jpg"><img class="alignnone size-full wp-image-466" title="TestPatternText" src="http://attentiontodetail.files.wordpress.com/2009/12/testpatterntext1.jpg" alt="" width="490" height="321" /></a></p>
+<p>She doesn&#8217;t explain what the Pilkington Report revealed, but various Pilkington Reports can be found <a title="Various Pilkington Reports" href="http://hansard.millbanksystems.com/lords/1962/jul/18/the-pilkington-report-on-broadcasting">here</a>.</p>
+<p>&nbsp;</p>
+<p>[*The thumbnail used for this post was taken from http://smarterthanmatt.blogspot.com]/</p>
+]]></content:encoded>
+							<wfw:commentRss>./../../../thedrugofthenation/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
